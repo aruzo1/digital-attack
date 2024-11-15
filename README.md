@@ -13,4 +13,3 @@ This roadmap outlines the planned development phases for Digital Attack: AI Upri
 * **Enemies**: Implement enemies: movement toward player, health, and attack.
 * **Endless mode:**  Waves of enemies with increasing difficulty.
 * **Minimal UI:**  Display health, score, and time.
-* 
